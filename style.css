@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+body {
+  background-color: rgb(46, 25, 25);
+  text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: white;
+    text-shadow: gray 3px 2px;
+}
+#canvas {
+  background: url("https://catscanman.net/wp-content/uploads/2021/09/anh-meo-cute-de-thuong-34.jpg")
+}
+
